@@ -2,7 +2,6 @@
 
 This repository contains a Power BI project that explores global remittance inflows using data from the World Bank API. The goal is to make complex remittance data easier to understand through interactive visuals and simple storytelling.
 
-
 ## 📊 Dashboard Preview
 
 ![Dashboard Landing Page](/Global%20Remittances.png)
