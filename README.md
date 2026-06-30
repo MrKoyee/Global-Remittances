@@ -18,6 +18,11 @@ The dashboard highlights:
 
 ## 🔌 Data Source & API
 * **Source:** World Bank Open Data API
+
+    - [Personal Remittances Received](https://api.worldbank.org/v2/country/all/indicator/BX.TRF.PWKR.CD.DT?format=json&per_page=20000)
+  
+    - [Country Metadata](https://api.worldbank.org/v2/country?format=json&per_page=400)
+  
 * **Data Type:** Annual remittance inflows by country and region
 * **Integration:** Connected directly to the World Bank API using Power Query.
 * **Update Frequency:** The project is configured to automatically refresh every Saturday, ensuring the dashboard is updated with the latest remittance data from the World Bank.
